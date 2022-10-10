@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.546667mm"
+   height="13.546667mm"
+   viewBox="0 0 13.546667 13.546667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="linkedIn.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc">
+      <rect
+         id="rect10"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-131.5779"
+     inkscape:cy="-132.43476"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g19"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-348.2471,-118.05095)">
+    <g
+       style="isolation:isolate"
+       id="g32"
+       transform="matrix(0.35277778,0,0,0.35277778,-114.70318,29.997618)">
+      <g
+         id="g19"
+         clip-path="url(#_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc)">
+        <path
+           id="path17"
+           d="m 1343.02,249.6 h -23.04 c -4.235,0 -7.68,3.445 -7.68,7.68 v 23.04 c 0,4.235 3.445,7.68 7.68,7.68 h 23.04 c 4.235,0 7.68,-3.445 7.68,-7.68 v -23.04 c 0,-4.235 -3.445,-7.68 -7.68,-7.68 z m -18.432,26.803 v 5.453 h -6.144 v -17.664 h 6.144 z m -3.072,-14.131 c -1.843,0 -3.072,-1.306 -3.072,-2.918 0,-1.613 1.229,-2.842 3.072,-2.842 1.843,0 2.995,1.229 3.072,2.842 0,1.612 -1.152,2.918 -3.072,2.918 z m 23.04,19.584 h -6.144 v -9.984 c 0,-0.691 -0.077,-3.072 -2.688,-3.072 -2.304,0 -2.688,2.227 -2.688,3.072 v 9.984 h -6.144 v -17.664 h 6.144 v 2.381 c 0,0 1.229,-2.381 4.838,-2.381 3.687,0 6.682,2.534 6.682,7.68 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+      </g>
+    </g>
+  </g>
+</svg>

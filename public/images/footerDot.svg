@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.175mm"
+   height="3.175mm"
+   viewBox="0 0 3.175 3.175"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="footerDot.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc">
+      <rect
+         id="rect10"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_VpQiL3MMGqUueuiGLXlGp2tD86HKPEZM">
+      <rect
+         id="rect62"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_RzfPZNmU8LBFDo5pvmikCXEJFUwxTh50">
+      <rect
+         id="rect131"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_k75Jns0RgF4V5qt3LTxUtVF3QClBXyzp">
+      <rect
+         id="rect200"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_NMN5rZNNcqhrwqLCG70OhLjSsEh9KIm8">
+      <rect
+         id="rect269"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-610.77568"
+     inkscape:cy="-118.31099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g278"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-309.16985,-193.28762)">
+    <g
+       style="isolation:isolate"
+       id="g32"
+       transform="matrix(0.35277778,0,0,0.35277778,-114.70318,29.997618)">
+      <g
+         id="g19"
+         clip-path="url(#_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc)">
+        <g
+           style="isolation:isolate"
+           id="g84"
+           transform="translate(-16.759877,20.597767)">
+          <g
+             id="g71"
+             clip-path="url(#_clipPath_VpQiL3MMGqUueuiGLXlGp2tD86HKPEZM)">
+            <g
+               style="isolation:isolate"
+               id="g153"
+               transform="translate(-86.382795,-24.938731)">
+              <g
+                 id="g140"
+                 clip-path="url(#_clipPath_RzfPZNmU8LBFDo5pvmikCXEJFUwxTh50)">
+                <g
+                   style="isolation:isolate"
+                   id="g222"
+                   transform="translate(-35.982531,-10.779607)">
+                  <g
+                     id="g209"
+                     clip-path="url(#_clipPath_k75Jns0RgF4V5qt3LTxUtVF3QClBXyzp)">
+                    <g
+                       style="isolation:isolate"
+                       id="g291"
+                       transform="translate(221.2234,-157.5838)">
+                      <g
+                         id="g278"
+                         clip-path="url(#_clipPath_NMN5rZNNcqhrwqLCG70OhLjSsEh9KIm8)">
+                        <circle
+                           id="circle276"
+                           r="4.5"
+                           cy="706.2749"
+                           cx="467.5"
+                           style="vector-effect:non-scaling-stroke;fill:#ffffff" />
+                        <circle
+                           id="circle276-3"
+                           r="4.5"
+                           cy="640.07367"
+                           cx="1123.9316"
+                           style="isolation:isolate;vector-effect:non-scaling-stroke;fill:#ffffff;stroke-width:0.99999994" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,183 @@
+/* ----- BODY ----- */
+body {
+    background-color: #e1e1e1;
+    margin: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+
+/* ----- Header ----- */
+header {
+    background-color: rgba(134, 194, 50, .5);
+}
+
+/* ----- LOGO Section ----- */
+section.logo {
+    display: inline;
+}
+section.logo img {
+    width: 10%;
+    position: fixed;
+    top: 5%;
+    left: 10%;
+}
+
+/* ----- NAV -BAR ----- */
+nav.main-nav ul {
+    position: absolute;
+    top: 3%;
+    right: 7%;
+    text-decoration: none;
+    border-bottom: 1px solid #86c232;
+}
+nav.main-nav ul li {
+    display: inline-block;
+    margin: 1.5em 2em 0 2em;
+}
+nav.main-nav a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    letter-spacing: .1em;
+}
+
+/* ----- MAIN Drop Area ----- */
+main.drop {
+    /* border: 2px solid black; */
+    position: relative;
+    top: 10em;
+    margin: auto;
+}
+.drop-text {
+    text-align: center;
+    letter-spacing: .1em;
+}
+div.drop-text p{
+    font-size: larger;
+    margin: 0;
+    font-weight: bold;
+}
+div.drop-text h1 {
+    margin-bottom: .2em;
+}
+div.drop-text h2 {
+    margin-top: .2em;
+}
+main figure.drop-button img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+main figcaption {
+    font-weight: bold;
+    margin-top: 1em;
+    text-align: center;
+}
+main figcaption span {
+    text-decoration: underline  ;
+}
+
+/* ----- Sharing Bar ----- */
+aside {
+    background-color: rgba(134, 194, 50, .5);
+    position: fixed;
+    top: 25%;
+    right: 0%;
+}
+aside ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+aside ul li {
+    margin: 1em 0 1em 0;
+    padding-left: 1em;
+    /* padding-right: 1em; */
+}
+aside img {
+    width: 70%;
+}
+
+/* ----- Footer ----- */
+footer {
+    position: relative;
+}
+footer div.footerImage img {
+    max-width: 100%;
+    
+}
+footer div.subscribe {
+    position: absolute;
+    bottom: .05em;
+    left: 10%;
+    color: ghostwhite;
+}
+footer div.subscribe input {
+    color: white;
+    width: 15em;
+    border: 0;
+    background: transparent;
+    border-bottom: 1px solid rgba(248, 248, 255, 0.856);
+}
+footer img.footerDot1 {
+    position: absolute;
+    bottom: 7%;
+    left: 35%;
+    width: 10px;
+}
+footer div.followUs {
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: .5em;
+    left: 37%;
+}
+footer div.followUs p {
+    margin-left: 20%;
+}
+footer div.followUs p span {
+    font-size: 1.3em;
+}
+footer div.followUs ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 1.5em;
+}
+footer img.footerDot2 {
+    position: absolute;
+    bottom: 7%;
+    right: 35%;
+    width: 10px;
+}
+footer div.support {
+    color: white;
+    position: absolute;
+    bottom: .5em;
+    right: 20%;
+    text-align: center;
+}
+footer div.support ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: x-small;
+}
+footer div.support a {
+    text-decoration: none;
+    color: white;
+}
+footer div.support span {
+    text-decoration: underline;
+    font-size: smaller;
+}
+footer figure {
+    position: absolute;
+    right: 3%;
+    bottom: 1.5em;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    text-decoration: underline;
+}
+footer figure img {
+    width: 75%;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "compressit",
+  "version": "1.0.0",
+  "description": "Online Compression application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustajab Ikram",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.2",
+    "zlib": "^1.0.5"
+  }
+}

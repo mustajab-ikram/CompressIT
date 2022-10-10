@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.2515974mm"
+   height="9.2515974mm"
+   viewBox="0 0 9.2515974 9.2515974"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="instaFollow.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="_clipPath_cpyplrWxhLdvjrqqLY9R2zXJwhb6Hmf2">
+      <rect
+         id="rect10"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-468.01905"
+     inkscape:cy="444.10991"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g19"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.90742,-258.59772)">
+    <g
+       style="isolation:isolate"
+       id="g32"
+       transform="matrix(0.35277778,0,0,0.35277778,-109.41151,41.336904)">
+      <g
+         id="g19"
+         clip-path="url(#_clipPath_cpyplrWxhLdvjrqqLY9R2zXJwhb6Hmf2)">
+        <path
+           id="path17"
+           d="m 606.29929,615.85743 c -4.023,0 -7.285,3.262 -7.285,7.285 v 11.656 c 0,4.023 3.262,7.284 7.285,7.284 h 11.655 c 4.024,0 7.285,-3.261 7.285,-7.284 v -11.656 c 0,-4.023 -3.261,-7.285 -7.285,-7.285 z m 14.569,2.914 c 0.802,0 1.457,0.656 1.457,1.457 0,0.801 -0.655,1.457 -1.457,1.457 -0.801,0 -1.457,-0.656 -1.457,-1.457 0,-0.801 0.656,-1.457 1.457,-1.457 z m -8.741,2.914 c 4.023,0 7.284,3.261 7.284,7.285 0,4.023 -3.261,7.285 -7.284,7.285 -4.024,0 -7.285,-3.262 -7.285,-7.285 0,-4.024 3.261,-7.285 7.285,-7.285 z m 0,2.914 c -1.562,0 -3.006,0.834 -3.786,2.187 -0.781,1.353 -0.78,3.02 0.001,4.373 0.782,1.352 2.225,2.185 3.788,2.185 2.414,-10e-4 4.371,-1.96 4.37,-4.374 0,-2.415 -1.959,-4.372 -4.373,-4.371 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

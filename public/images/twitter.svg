@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.546667mm"
+   height="13.546667mm"
+   viewBox="0 0 13.546667 13.546667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="twitter.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc">
+      <rect
+         id="rect10"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_VpQiL3MMGqUueuiGLXlGp2tD86HKPEZM">
+      <rect
+         id="rect62"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_RzfPZNmU8LBFDo5pvmikCXEJFUwxTh50">
+      <rect
+         id="rect131"
+         height="768"
+         width="1366"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-187.83086"
+     inkscape:cy="-228.7597"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g140"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-308.65341,-127.40856)">
+    <g
+       style="isolation:isolate"
+       id="g32"
+       transform="matrix(0.35277778,0,0,0.35277778,-114.70318,29.997618)">
+      <g
+         id="g19"
+         clip-path="url(#_clipPath_i4UO9EuqeyPyi74R9JJeNEqeTDZFEDzc)">
+        <g
+           style="isolation:isolate"
+           id="g84"
+           transform="translate(-16.759877,20.597767)">
+          <g
+             id="g71"
+             clip-path="url(#_clipPath_VpQiL3MMGqUueuiGLXlGp2tD86HKPEZM)">
+            <g
+               style="isolation:isolate"
+               id="g153"
+               transform="translate(-86.382795,-24.938731)">
+              <g
+                 id="g140"
+                 clip-path="url(#_clipPath_RzfPZNmU8LBFDo5pvmikCXEJFUwxTh50)">
+                <path
+                   id="path138"
+                   d="m 1337.7686,280.46647 h -30.72 c -2.116,0 -3.84,1.724 -3.84,3.84 v 30.72 c 0,2.116 1.724,3.84 3.84,3.84 h 30.72 c 2.116,0 3.84,-1.724 3.84,-3.84 v -30.72 c 0,-2.116 -1.724,-3.84 -3.84,-3.84 z m -4.604,13.056 v 0.768 c 0,7.296 -5.574,15.74 -15.752,15.74 -3.066,0 -5.946,-0.96 -8.444,-2.488 h 1.344 c 2.496,0 4.992,-0.96 6.912,-2.312 -2.496,0 -4.416,-1.724 -5.18,-3.84 0.382,0 0.764,0.196 0.96,0.196 0.568,0 0.96,0 1.528,-0.196 -2.488,-0.568 -4.408,-2.684 -4.408,-5.368 0.764,0.382 1.528,0.568 2.488,0.764 -1.528,-1.344 -2.488,-2.88 -2.488,-4.8 0,-0.96 0.186,-1.92 0.764,-2.684 2.684,3.262 6.72,5.564 11.324,5.76 0,-0.392 -0.186,-0.774 -0.186,-1.352 0,-3.072 2.492,-5.562 5.564,-5.564 1.538,0 3.076,0.576 4.036,1.724 1.342,-0.186 2.496,-0.764 3.456,-1.342 -0.39,1.344 -1.35,2.304 -2.496,3.076 1.146,-0.196 2.106,-0.384 3.262,-0.96 -0.744,1.09 -1.649,2.061 -2.684,2.88 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:#000000" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

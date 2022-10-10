@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 259.60001 259.60001"
+   width="259.60001pt"
+   height="259.60001pt"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="LOGO.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="0.44384766"
+     inkscape:cx="135.68054"
+     inkscape:cy="128.73064"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_uTEoa0KgH6NoOgvPjqOFA4ESW7t9JnNC">
+      <rect
+         width="1024"
+         height="768"
+         id="rect2"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <circle
+         id="circle35"
+         cx="373.17014"
+         cy="299.96262"
+         r="130.83575"
+         style="stroke-width:0.75" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clipPath33)"
+     id="g15"
+     transform="translate(-243.504,-171.095)">
+    <g
+       id="g13">
+      <path
+         d="m 243.504,300.895 c 0,-71.638 58.161,-129.8 129.8,-129.8 71.638,0 129.8,58.162 129.8,129.8 0,71.639 -58.162,129.8 -129.8,129.8 -71.639,0 -129.8,-58.161 -129.8,-129.8 z m 11.595,0 c 0,-65.238 52.966,-118.204 118.205,-118.204 65.238,0 118.204,52.966 118.204,118.204 0,65.239 -52.966,118.205 -118.204,118.205 -65.239,0 -118.205,-52.966 -118.205,-118.205 z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         style="fill:#86c232;fill-rule:evenodd" />
+      <text
+         transform="translate(278.335,288.945)"
+         style="font-style:normal;font-weight:400;font-size:71px;font-family:BilboINC;fill:#000000;stroke:none"
+         id="text9">COMPRESS</text>
+      <text
+         transform="translate(318.095,359.945)"
+         style="font-style:normal;font-weight:400;font-size:71px;font-family:BilboINC;fill:#86c232;stroke:none"
+         id="text11">- I T -</text>
+    </g>
+  </g>
+</svg>
